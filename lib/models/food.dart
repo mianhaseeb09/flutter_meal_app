@@ -4,7 +4,7 @@ class Food {
   final double price;
 
   Food({
-    required this.imageUrl,
+     required this.imageUrl,
     required this.name,
     required this.price,
   });
